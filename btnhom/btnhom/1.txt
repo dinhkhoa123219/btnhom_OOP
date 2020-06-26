@@ -1,0 +1,12 @@
+Bai test so 1-30
+2
+0-Test 0
+A.Dap an 1-10-1
+B.Dap an 2-0-2
+C.Dap an 3-0-3
+D.Dap an 4-0-4
+1-Test 1
+A.Dap an 1-10-1
+B.Dap an 2-0-2
+C.Dap an 3-0-3
+D.Dap an 4-0-4
