@@ -1,0 +1,17 @@
+Test OOP-2
+3
+0-Basic characteristics of object-oriented programming are shown in:
+A.Divisibility, inheritance.-0-1
+B.Encapsulation, inheritance, polymorphism, abstraction.-10-2
+C.Encapsulation, abstraction.-0-3
+D.Encapsulation, inheritance, polymorphism, specialization.-0-4
+1-The structured programming language is :
+A.PHP-0-1
+B.Pascal-5-2
+C.C-5-3
+D.Java-0-4
+0-OOP stands for:
+A.Object Oriented Proccessing.-0-1
+B.Object Oriented Programming.-10-2
+C.Open Object Programming-0-3
+D.Open Oriented Programming-0-4

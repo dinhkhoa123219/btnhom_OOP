@@ -1,0 +1,20 @@
+﻿  Source.cpp
+C:\Users\nguye\Downloads\multiChoice-20200627T065618Z-001\multiChoice\menu.h(13,28): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\Users\nguye\Downloads\multiChoice-20200627T065618Z-001\multiChoice\menu.h(13,35): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\Users\nguye\Downloads\multiChoice-20200627T065618Z-001\multiChoice\menu.h(108,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\nguye\Downloads\multiChoice-20200627T065618Z-001\multiChoice\menu.h(139,69): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\nguye\Downloads\multiChoice-20200627T065618Z-001\multiChoice\menu.h(140,69): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\nguye\Downloads\multiChoice-20200627T065618Z-001\multiChoice\menu.h(141,69): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\nguye\Downloads\multiChoice-20200627T065618Z-001\multiChoice\menu.h(142,69): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\nguye\Downloads\multiChoice-20200627T065618Z-001\multiChoice\menu.h(159,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\nguye\Downloads\multiChoice-20200627T065618Z-001\multiChoice\menu.h(165,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\nguye\Downloads\multiChoice-20200627T065618Z-001\multiChoice\menu.h(167,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\nguye\Downloads\multiChoice-20200627T065618Z-001\multiChoice\menu.h(175,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\nguye\Downloads\multiChoice-20200627T065618Z-001\multiChoice\menu.h(177,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\nguye\Downloads\multiChoice-20200627T065618Z-001\multiChoice\menu.h(183,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\nguye\Downloads\multiChoice-20200627T065618Z-001\multiChoice\menu.h(186,70): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\nguye\Downloads\multiChoice-20200627T065618Z-001\multiChoice\menu.h(187,70): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\nguye\Downloads\multiChoice-20200627T065618Z-001\multiChoice\menu.h(188,70): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\nguye\Downloads\multiChoice-20200627T065618Z-001\multiChoice\menu.h(189,70): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\nguye\Downloads\multiChoice-20200627T065618Z-001\multiChoice\menu.h(155,20): warning C4102: 'Enter_the_answer1': unreferenced label
+  final.vcxproj -> C:\Users\nguye\source\repos\final\Debug\final.exe
